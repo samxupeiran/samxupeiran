@@ -1,6 +1,6 @@
-### Hi, I'm [sam!](http://samxupeiran.github.io/) 👋, a QA from Earth.
+### Hi, I'm [sam!](http://samxupeiran.github.io/) 👋, a QA from China.
 
-- 🌱 I’m currently learning Python & goLand
+- 🌱 I’m currently learning Python & Algorithm
 - 💬 Talk to me about anything [here](mailto:xupeiran.sam@gmail.com)
 
 <a href="mailto:xupeiran.sam@gmail.com">
@@ -13,3 +13,14 @@
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=samxupeiran)
+
+<br/>
+<br/>
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/python.png"></code>
+<code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/vscode.png"></code>
+<code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/linux.png"></code>
+<code><img height="20" src="https://github.com/SionFu/SionFu/blob/master/assets/git.png"></code>
