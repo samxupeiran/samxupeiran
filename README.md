@@ -1,4 +1,7 @@
-### Hi there, I'm [sam!](http://samxupeiran.github.io/) 👋
+### Hi, I'm [sam!](http://samxupeiran.github.io/) 👋, a QA from Earth.
+
+- 🌱 I’m currently learning Python & goLand
+- 💬 Talk to me about anything [here](mailto:xupeiran.sam@gmail.com)
 
 <a href="mailto:xupeiran.sam@gmail.com">
   <img align="left" alt="sam's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
