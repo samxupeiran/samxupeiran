@@ -13,12 +13,3 @@
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=samxupeiran)
-
-<br/>
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://github.com/samxupeiran/samxupeiran/blog/master/assets/python.png"></code>
-<code><img height="20" src="https://github.com/samxupeiran/samxupeiran/blog/master/assets/vscode.png"></code>
-<code><img height="20" src="https://github.com/samxupeiran/samxupeiran/blog/master/assets/linux.png"></code>
-<code><img height="20" src="https://github.com/samxupeiran/samxupeiran/blog/master/assets/git.png"></code>
