@@ -8,14 +8,21 @@
     "email": "xupeiran.sam@gmail.com",
     "mobile": "1850023108",
     "github": "https://github.com/samxupeiran",
+    "LinkedIn": "https://www.linkedin.com/in/samxupeiran/"
     "workExpYear": ""
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2017.09.01", "2020.06.30"],
+      "school": "北京邮电大学",
+      "major": "计算机科学与技术",
       "academic_degree": "本科"
+    },
+    {
+      "edu_time": ["2007.09.01", "2010.06.30"],
+      "school": "淮南联合大学",
+      "major": "文秘",
+      "academic_degree": "专科"
     }
   ],
   "awardList": [
