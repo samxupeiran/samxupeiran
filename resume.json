@@ -4,55 +4,69 @@
     "hidden": true
   },
   "profile": {
-    "name": "徐佩然",
+    "name": "Peiran Xu",
     "email": "xupeiran.sam@gmail.com",
-    "mobile": "1850023108",
+    "mobile": "18500232018",
     "github": "https://github.com/samxupeiran",
     "workExpYear": ""
   },
   "educationList": [
     {
-      "edu_time": ["2017.09.01", "2020.06.30"],
-      "school": "北京邮电大学",
-      "major": "计算机科学与技术",
-      "academic_degree": "本科"
+      "edu_time": ["2017.03.01", "2020.06.30"],
+      "school": "Beijing University of Posts and Telecommunications",
+      "major": "Computer Science and Technology",
+      "academic_degree": "Bachelor"
     }
   ],
   "awardList": [
   ],
   "workExpList": [
     {
-      "company_name": "京东",
-      "department_name": "支付业务部",
+      "company_name": "JD",
+      "department_name": "",
       "work_time": ["2021.11", null],
       "work_desc": ""
     },
     {
-      "company_name": "知乎",
-      "department_name": "移动平台",
+      "company_name": "Zhihu",
+      "department_name": "",
       "work_time": ["2021.02", "2021.10"],
-      "work_desc": ""
+      "work_desc": "1. Engaged in daily testing of mobile platforms, follow-up testing of APP version iterations, requirement analysis, deriving test cases and documenting test cases, etc., to ensure product quality after launch.\n2. Do a good job of online bugs analysis and summary, and lay the foundation for avoiding such problems in the later versions.\n3. The construction of CI in the process of packaging and publishing pipelines ensures that problematic packages will not flow into the online.\n4. Android-based mobile terminal special tests, such as: background battery consumption, flow, etc.\n5. Sorting out and landing of the mobile platform test process, and ensuring the effective execution in the later versions.\n6. Leveraged Knowledge in VSCode, Git, Python, Appium, ADB, Linux, Android Studio"
     },
     {
-      "company_name": "艺龙旅行网",
-      "department_name": "酒旅事业群",
+      "company_name": "eLong",
+      "department_name": "",
       "work_time": ["2019.10", "2021.01"],
       "work_desc": ""
     },
     {
-      "company_name": "穷游网",
-      "department_name": "移动事业部",
+      "company_name": "Qyer",
+      "department_name": "",
       "work_time": ["2015.11", "2019.09"],
       "work_desc": ""
     },
     {
-      "company_name": "机锋网",
-      "department_name": "技术中心",
+      "company_name": "Gfan",
+      "department_name": "",
       "work_time": ["2010.11", "2015.10"],
       "work_desc": ""
     }
   ],
   "skillList": [
+    {
+      "skill_name": "Android & iOS Test",
+      "skill_desc": "",
+      "skill_level": 95
+    },
+    {
+      "skill_name": "Linux",
+      "skill_desc": "",
+      "skill_level": 85
+    },{
+      "skill_name": "Charles",
+      "skill_desc": "",
+      "skill_level": 95
+    },
     {
       "skill_name": "Python",
       "skill_desc": "",
@@ -66,16 +80,28 @@
     {
       "skill_name": "VSCode",
       "skill_desc": "",
-      "skill_level": 90
+      "skill_level": 85
     },
     {
-      "skill_name": "Android & iOS 测试",
+      "skill_name": "Android ADB",
       "skill_desc": "",
       "skill_level": 85
+    },
+    {
+      "skill_name": "Git",
+      "skill_desc": "",
+      "skill_level": 91
+    },
+    {
+      "skill_name": "Postman",
+      "skill_desc": "",
+      "skill_level": 85
+    },
+    {
+      "skill_name": "HttpRunner",
+      "skill_desc": "",
+      "skill_level": 80
     }
   ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 "
-  }
+  "workList": []
 }
