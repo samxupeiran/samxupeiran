@@ -37,7 +37,7 @@
       "company_name": "eLong",
       "department_name": "",
       "work_time": ["2019.10", "2021.01"],
-      "work_desc": ""
+      "work_desc": "1. "
     },
     {
       "company_name": "Qyer",
@@ -102,5 +102,5 @@
       "skill_desc": "",
       "skill_level": 80
     }
-  ],
+  ]
 }
