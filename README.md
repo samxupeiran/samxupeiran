@@ -1,4 +1,4 @@
-### Hi, there, I'm [sam!](http://samxupeiran.github.io/) 👋, a QA engineer from China.
+### Hi there, I'm [sam!](http://samxupeiran.github.io/) 👋, a QA engineer from China.
 
 - 🌱 I’m currently learning Python & Algorithm
 - 💬 Talk to me about anything [here](mailto:xupeiran.sam@gmail.com)
