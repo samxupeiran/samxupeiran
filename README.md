@@ -1,4 +1,4 @@
-### Hi there, I'm [Peiran Xu!](http://samxupeiran.github.io/) 👋, a QA Engineer from China.
+### Hi there, I'm [Peiran XU!](http://samxupeiran.github.io/) 👋, a QA Engineer from China.
 
 - 🌱 I’m currently learning Python & Algorithm
 - 💬 Talk to me about anything [here](mailto:xupeiran.sam@gmail.com)
